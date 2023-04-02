@@ -29,7 +29,7 @@
 
 ** Domino Piling (Easy)
 *** [[https://codeforces.com/problemset/problem/50/A][Problem]]
-*** [[./codeforces/domino-piling/][Solution]]
+*** [[https://github.com/mubareksd/codeforces/tree/main/domino-piling/][Solution]]
 
 * GeeksForGeeks
 
@@ -37,36 +37,36 @@
 
 ** Grading Students (Easy)
 *** [[https://www.hackerrank.com/challenges/grading/problem][Problem]]
-*** [[./hackerrank/grading/][Solution]]
+*** [[https://github.com/mubareksd/hackerrank/tree/main/grading-students/][Solution]]
 ** Bubble Sort (Easy)
 *** [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Problem]]
 *** [[./hackerrank/bubble-sort/][Solution]]
 ** Insertion Sort - Part 1 (Easy)
 *** [[https://www.hackerrank.com/challenges/insertionsort1/problem][Problem]]
-*** [[./hackerrank/insertion-sort/][Solution]]
+*** [[https://github.com/mubareksd/hackerrank/tree/main/insertion-sort/][Solution]]
 
 * Leetcode
 ** Two Sum (Easy)
 *** [[https://leetcode.com/problems/two-sum/][Problem]]
-*** [[./0001-two-sum][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/0001-two-sum][Solution]]
 ** Pascal Triangle (Easy)
 *** [[https://leetcode.com/problems/pascals-triangle/][Problem]]
-*** [[./0118-pascals-triangle][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/0118-pascals-triangle][Solution]]
 ** Pascal Triangle II (Easy)
 *** [[https://leetcode.com/problems/pascals-triangle-ii/][Problem]]
-*** [[./0119-pascals-triangle-ii][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/0119-pascals-triangle-ii][Solution]]
 ** Fizz Buzz (Easy)
 *** [[https://leetcode.com/problems/fizz-buzz/][Problem]]
-*** [[./0412-fizz-buzz/][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/0412-fizz-buzz/][Solution]]
 ** Find Total Time Spent by Each Employee (Easy)
 *** [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Problem]]
-*** [[./1741-find-total-time-spent-by-each-employee][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/1741-find-total-time-spent-by-each-employee][Solution]]
 ** Recyclable and Low Fat Products (Easy)
 *** [[https://leetcode.com/problems/recyclable-and-low-fat-products/][Problem]]
-*** [[./1757-recyclable-and-low-fat-products][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/1757-recyclable-and-low-fat-products][Solution]]
 ** Concatenation of Array (Easy)
 *** [[https://leetcode.com/problems/concatenation-of-array/][Problem]]
-*** [[./1929-concatenation-of-array][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/1929-concatenation-of-array][Solution]]
 ** Convert the Temperature (Easy)
 *** [[https://leetcode.com/problems/convert-the-temperature/][Problem]]
-*** [[./2469-convert-the-temperature][Solution]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/2469-convert-the-temperature][Solution]]
