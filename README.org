@@ -9,7 +9,6 @@
 
 * 📗 Table of Contents :toc:
 - [[#codeforces][CodeForces]]
-  - [[#domino-piling-easy][Domino Piling (Easy)]]
 - [[#geeksforgeeks][GeeksForGeeks]]
   - [[#counting-sort-easy][Counting Sort (Easy)]]
 - [[#hackerrank][HackerRank]]
@@ -32,9 +31,9 @@
 
 * CodeForces
 
-** Domino Piling (Easy)
-*** [[https://codeforces.com/problemset/problem/50/A][Problem]]
-*** [[https://github.com/mubareksd/codeforces/tree/main/domino-piling/][Solution]]
+| Problem       | Solution |
+|---------------+----------|
+| [[https://codeforces.com/problemset/problem/50/A][Domino Piling]] | [[https://github.com/mubareksd/codeforces/tree/main/domino-piling/][Solution]] |
 
 * GeeksForGeeks
 
