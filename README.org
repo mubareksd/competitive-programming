@@ -33,7 +33,7 @@
 
 | Problem       | Solution |
 |---------------+----------|
-| [[https://codeforces.com/problemset/problem/50/A][Domino Piling]] | [[https://github.com/mubareksd/codeforces/tree/main/domino-piling/][Solution]] |
+| [[https://codeforces.com/problemset/problem/50/A][Domino Piling]] | [[https://github.com/mubareksd/codeforces/blob/main/domino-piling/domino-piling.py][Python]]   |
 
 * GeeksForGeeks
 
