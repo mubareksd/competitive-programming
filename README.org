@@ -1,82 +1,72 @@
 #+TITLE: Competitive programming
 #+AUTHOR: Mubarek Seid Juhar
+#+EMAIL: mubareksd@gmail.com
+#+DATE: 2023-04-02
 #+DESCRIPTION: Solution to various coding interview questions
+#+KEYWORDS: competitive programming, coding interview, leetcode, hackerrank, codeforces, geeksforgeeks
+#+LANGUAGE: en
 #+STARTUP: inlineimages
 
 * 📗 Table of Contents :toc:
 - [[#codeforces][CodeForces]]
   - [[#domino-piling-easy][Domino Piling (Easy)]]
-  - [[#theatre-square-easy][theatre square (Easy)]]
 - [[#geeksforgeeks][GeeksForGeeks]]
-  - [[#selection-sort-easy][Selection Sort (Easy)]]
 - [[#hackerrank][HackerRank]]
   - [[#grading-students-easy][Grading Students (Easy)]]
   - [[#bubble-sort-easy][Bubble Sort (Easy)]]
   - [[#insertion-sort---part-1-easy][Insertion Sort - Part 1 (Easy)]]
-  - [[#counting-sort-easy][Counting Sort (Easy)]]
-  - [[#counting-valleys-easy][Counting Valleys (Easy)]]
 - [[#leetcode][Leetcode]]
+  - [[#two-sum-easy][Two Sum (Easy)]]
+  - [[#pascal-triangle-easy][Pascal Triangle (Easy)]]
+  - [[#pascal-triangle-ii-easy][Pascal Triangle II (Easy)]]
   - [[#fizz-buzz-easy][Fizz Buzz (Easy)]]
-  - [[#sorting-the-sentence-easy][Sorting the Sentence (Easy)]]
-  - [[#how-many-numbers-are-smaller-than-the-current-number-easy][How Many Numbers Are Smaller Than the Current Number (Easy)]]
-  - [[#find-target-indices-after-sorting-array-easy][Find Target Indices After Sorting Array (Easy)]]
-  - [[#sort-colors-medium][Sort Colors (Medium)]]
-  - [[#k-closest-points-to-origin-medium][K Closest Points to Origin (Medium)]]
-  - [[#merge-intervals-medium][Merge Intervals (Medium)]]
-  - [[#largest-number-medium][Largest Number (Medium)]]
-  - [[#array-with-elements-not-equal-to-average-of-neighbors-medium][Array With Elements Not Equal to Average of Neighbors (Medium)]]
-  - [[#find-the-kth-largest-integer-in-the-array-medium][Find the Kth Largest Integer in the Array (Medium)]]
-  - [[#find-original-array-from-doubled-array-medium][Find Original Array From Doubled Array (Medium)]]
-  - [[#frequency-of-the-most-frequent-element-medium][Frequency of the Most Frequent Element (Medium)]]
-  - [[#number-of-good-pairs-easy][Number of Good Pairs (Easy)]]
-  - [[#max-number-of-k-sum-pairs-medium][Max Number of K-Sum Pairs (Medium)]]
-  - [[#arithmetic-subarrays-medium][Arithmetic Subarrays (Medium)]]
-  - [[#maximum-number-of-coins-you-can-get-medium][Maximum Number of Coins You Can Get (Medium)]]
+  - [[#find-total-time-spent-by-each-employee-easy][Find Total Time Spent by Each Employee (Easy)]]
+  - [[#recyclable-and-low-fat-products-easy][Recyclable and Low Fat Products (Easy)]]
+  - [[#concatenation-of-array-easy][Concatenation of Array (Easy)]]
+  - [[#convert-the-temperature-easy][Convert the Temperature (Easy)]]
 
 * CodeForces
 
 ** Domino Piling (Easy)
 *** [[https://codeforces.com/problemset/problem/50/A][Problem]]
-*** [[https://github.com/mubareksd/competitive-programming/blob/main/codeforces/domino-piling/domino-piling.py][Solution]]
-** theatre square (Easy)
+*** [[./codeforces/domino-piling/][Solution]]
 
 * GeeksForGeeks
-
-** Selection Sort (Easy)
 
 * HackerRank
 
 ** Grading Students (Easy)
 *** [[https://www.hackerrank.com/challenges/grading/problem][Problem]]
-*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/grading/grading.py][Solution]]
+*** [[./hackerrank/grading/][Solution]]
 ** Bubble Sort (Easy)
 *** [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Problem]]
-*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/bubble-sort/bubble-sort.py][Solution]]
+*** [[./hackerrank/bubble-sort/][Solution]]
 ** Insertion Sort - Part 1 (Easy)
 *** [[https://www.hackerrank.com/challenges/insertionsort1/problem][Problem]]
-*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/insertion-sort/insertion-sort.py][Solution]]
-** Counting Sort (Easy)
-** Counting Valleys (Easy)
+*** [[./hackerrank/insertion-sort/][Solution]]
 
 * Leetcode
-
+** Two Sum (Easy)
+*** [[https://leetcode.com/problems/two-sum/][Problem]]
+*** [[./0001-two-sum][Solution]]
+** Pascal Triangle (Easy)
+*** [[https://leetcode.com/problems/pascals-triangle/][Problem]]
+*** [[./0118-pascals-triangle][Solution]]
+** Pascal Triangle II (Easy)
+*** [[https://leetcode.com/problems/pascals-triangle-ii/][Problem]]
+*** [[./0119-pascals-triangle-ii][Solution]]
 ** Fizz Buzz (Easy)
 *** [[https://leetcode.com/problems/fizz-buzz/][Problem]]
-*** [[https://github.com/mubareksd/competitive-programming/blob/main/0412-fizz-buzz/0412-fizz-buzz.py][Solution]]
-** Sorting the Sentence (Easy)
-** How Many Numbers Are Smaller Than the Current Number (Easy)
-** Find Target Indices After Sorting Array (Easy)
-** Sort Colors (Medium)
-** K Closest Points to Origin (Medium)
-** Merge Intervals (Medium)
-** Largest Number (Medium)
-** Array With Elements Not Equal to Average of Neighbors (Medium)
-** Find the Kth Largest Integer in the Array (Medium)
-** Find Original Array From Doubled Array (Medium)
-** Frequency of the Most Frequent Element (Medium)
-** Number of Good Pairs (Easy)
-** Max Number of K-Sum Pairs (Medium)
-** Arithmetic Subarrays (Medium)
-** Maximum Number of Coins You Can Get (Medium)
-
-#  LocalWords:  Leetcode GeeksForGeeks
+*** [[./0412-fizz-buzz/][Solution]]
+** Find Total Time Spent by Each Employee (Easy)
+*** [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Problem]]
+*** [[./1741-find-total-time-spent-by-each-employee][Solution]]
+** Recyclable and Low Fat Products (Easy)
+*** [[https://leetcode.com/problems/recyclable-and-low-fat-products/][Problem]]
+*** [[./1757-recyclable-and-low-fat-products][Solution]]
+** Concatenation of Array (Easy)
+*** [[https://leetcode.com/problems/concatenation-of-array/][Problem]]
+*** [[./1929-concatenation-of-array][Solution]]
+** Convert the Temperature (Easy)
+*** [[https://leetcode.com/problems/convert-the-temperature/][Problem]]
+*** [[./2469-convert-the-temperature][Solution]]
