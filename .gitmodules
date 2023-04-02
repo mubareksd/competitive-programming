@@ -1,3 +1,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = git@github.com:mubareksd/leetcode.git
+[submodule "projecteuler"]
+	path = projecteuler
+	url = git@github.com:mubareksd/projecteuler.git
