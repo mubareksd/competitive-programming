@@ -28,6 +28,7 @@
   - [[#convert-the-temperature-easy][Convert the Temperature (Easy)]]
   - [[#sorting-the-sentence-easy][Sorting the Sentence (Easy)]]
   - [[#how-many-numbers-are-smaller-than-the-current-number-easy][How Many Numbers Are Smaller Than the Current Number (Easy)]]
+  - [[#find-target-indices-after-sorting-array-easy][Find Target Indices After Sorting Array (Easy)]]
 
 * CodeForces
 
@@ -87,3 +88,6 @@
 ** How Many Numbers Are Smaller Than the Current Number (Easy)
 *** [[https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/][Problem]]
 *** [[https://github.com/mubareksd/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number][Solution]]
+** Find Target Indices After Sorting Array (Easy)
+*** [[https://leetcode.com/problems/find-target-indices-after-sorting-array/][Problem]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/2089-find-target-indices-after-sorting-array][Solution]]
