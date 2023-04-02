@@ -26,6 +26,7 @@
   - [[#recyclable-and-low-fat-products-easy][Recyclable and Low Fat Products (Easy)]]
   - [[#concatenation-of-array-easy][Concatenation of Array (Easy)]]
   - [[#convert-the-temperature-easy][Convert the Temperature (Easy)]]
+  - [[#sorting-the-sentence-easy][Sorting the Sentence (Easy)]]
 
 * CodeForces
 
@@ -79,3 +80,6 @@
 ** Convert the Temperature (Easy)
 *** [[https://leetcode.com/problems/convert-the-temperature/][Problem]]
 *** [[https://github.com/mubareksd/leetcode/tree/main/2469-convert-the-temperature][Solution]]
+** Sorting the Sentence (Easy)
+*** [[https://leetcode.com/problems/sorting-the-sentence/][Problem]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/1859-sorting-the-sentence][Solution]]
