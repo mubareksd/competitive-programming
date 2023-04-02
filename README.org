@@ -1,8 +1,9 @@
 #+TITLE: Competitive programming
 #+AUTHOR: Mubarek Seid Juhar
 #+DESCRIPTION: Solution to various coding interview questions
+#+STARTUP: inlineimages
 
-* TABLE OF CONTENTS :toc:
+* 📗 TABLE OF CONTENTS :toc:
 - [[#codeforces][CodeForces]]
   - [[#domino-piling-easy][Domino Piling (Easy)]]
   - [[#theatre-square-easy][theatre square (Easy)]]
@@ -35,6 +36,8 @@
 * CodeForces
 
 ** Domino Piling (Easy)
+*** [[https://codeforces.com/problemset/problem/50/A][Problem]]
+*** [[https://github.com/mubareksd/competitive-programming/blob/main/codeforces/domino-piling/domino-piling.py][Solution]]
 ** theatre square (Easy)
 
 * GeeksForGeeks
@@ -44,14 +47,22 @@
 * HackerRank
 
 ** Grading Students (Easy)
+*** [[https://www.hackerrank.com/challenges/grading/problem][Problem]]
+*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/grading/grading.py][Solution]]
 ** Bubble Sort (Easy)
+*** [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Problem]]
+*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/bubble-sort/bubble-sort.py][Solution]]
 ** Insertion Sort - Part 1 (Easy)
+*** [[https://www.hackerrank.com/challenges/insertionsort1/problem][Problem]]
+*** [[https://github.com/mubareksd/competitive-programming/blob/main/hackerrank/insertion-sort/insertion-sort.py][Solution]]
 ** Counting Sort (Easy)
 ** Counting Valleys (Easy)
 
 * Leetcode
 
 ** Fizz Buzz (Easy)
+*** [[https://leetcode.com/problems/fizz-buzz/][Problem]]
+*** [[https://github.com/mubareksd/competitive-programming/blob/main/0412-fizz-buzz/0412-fizz-buzz.py][Solution]]
 ** Sorting the Sentence (Easy)
 ** How Many Numbers Are Smaller Than the Current Number (Easy)
 ** Find Target Indices After Sorting Array (Easy)
