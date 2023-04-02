@@ -15,6 +15,7 @@
   - [[#grading-students-easy][Grading Students (Easy)]]
   - [[#bubble-sort-easy][Bubble Sort (Easy)]]
   - [[#insertion-sort---part-1-easy][Insertion Sort - Part 1 (Easy)]]
+  - [[#counting-sort-1-easy][Counting Sort 1 (Easy)]]
 - [[#leetcode][Leetcode]]
   - [[#two-sum-easy][Two Sum (Easy)]]
   - [[#pascal-triangle-easy][Pascal Triangle (Easy)]]
@@ -44,6 +45,9 @@
 ** Insertion Sort - Part 1 (Easy)
 *** [[https://www.hackerrank.com/challenges/insertionsort1/problem][Problem]]
 *** [[https://github.com/mubareksd/hackerrank/tree/main/insertion-sort/][Solution]]
+** Counting Sort 1 (Easy)
+*** [[https://www.hackerrank.com/challenges/countingsort1/problem][Problem]]
+*** [[https://github.com/mubareksd/hackerrank/tree/main/counting-sort][Solution]]
 
 * Leetcode
 ** Two Sum (Easy)
