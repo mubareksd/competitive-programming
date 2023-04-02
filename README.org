@@ -40,7 +40,7 @@
 *** [[https://github.com/mubareksd/hackerrank/tree/main/grading-students/][Solution]]
 ** Bubble Sort (Easy)
 *** [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Problem]]
-*** [[./hackerrank/bubble-sort/][Solution]]
+*** [[https://github.com/mubareksd/hackerrank/tree/main/bubble-sort/][Solution]]
 ** Insertion Sort - Part 1 (Easy)
 *** [[https://www.hackerrank.com/challenges/insertionsort1/problem][Problem]]
 *** [[https://github.com/mubareksd/hackerrank/tree/main/insertion-sort/][Solution]]
