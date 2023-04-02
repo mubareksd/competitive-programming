@@ -4,3 +4,6 @@
 [submodule "projecteuler"]
 	path = projecteuler
 	url = git@github.com:mubareksd/projecteuler.git
+[submodule "codeforces"]
+	path = codeforces
+	url = git@github.com:mubareksd/codeforces.git
