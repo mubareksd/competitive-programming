@@ -1,0 +1,71 @@
+#+TITLE: Competitive programming
+#+AUTHOR: Mubarek Seid Juhar
+#+DESCRIPTION: Solution to various coding interview questions
+
+* TABLE OF CONTENTS :toc:
+- [[#codeforces][CodeForces]]
+  - [[#domino-piling-easy][Domino Piling (Easy)]]
+  - [[#theatre-square-easy][theatre square (Easy)]]
+- [[#geeksforgeeks][GeeksForGeeks]]
+  - [[#selection-sort-easy][Selection Sort (Easy)]]
+- [[#hackerrank][HackerRank]]
+  - [[#grading-students-easy][Grading Students (Easy)]]
+  - [[#bubble-sort-easy][Bubble Sort (Easy)]]
+  - [[#insertion-sort---part-1-easy][Insertion Sort - Part 1 (Easy)]]
+  - [[#counting-sort-easy][Counting Sort (Easy)]]
+  - [[#counting-valleys-easy][Counting Valleys (Easy)]]
+- [[#leetcode][Leetcode]]
+  - [[#fizz-buzz-easy][Fizz Buzz (Easy)]]
+  - [[#sorting-the-sentence-easy][Sorting the Sentence (Easy)]]
+  - [[#how-many-numbers-are-smaller-than-the-current-number-easy][How Many Numbers Are Smaller Than the Current Number (Easy)]]
+  - [[#find-target-indices-after-sorting-array-easy][Find Target Indices After Sorting Array (Easy)]]
+  - [[#sort-colors-medium][Sort Colors (Medium)]]
+  - [[#k-closest-points-to-origin-medium][K Closest Points to Origin (Medium)]]
+  - [[#merge-intervals-medium][Merge Intervals (Medium)]]
+  - [[#largest-number-medium][Largest Number (Medium)]]
+  - [[#array-with-elements-not-equal-to-average-of-neighbors-medium][Array With Elements Not Equal to Average of Neighbors (Medium)]]
+  - [[#find-the-kth-largest-integer-in-the-array-medium][Find the Kth Largest Integer in the Array (Medium)]]
+  - [[#find-original-array-from-doubled-array-medium][Find Original Array From Doubled Array (Medium)]]
+  - [[#frequency-of-the-most-frequent-element-medium][Frequency of the Most Frequent Element (Medium)]]
+  - [[#number-of-good-pairs-easy][Number of Good Pairs (Easy)]]
+  - [[#max-number-of-k-sum-pairs-medium][Max Number of K-Sum Pairs (Medium)]]
+  - [[#arithmetic-subarrays-medium][Arithmetic Subarrays (Medium)]]
+  - [[#maximum-number-of-coins-you-can-get-medium][Maximum Number of Coins You Can Get (Medium)]]
+
+* CodeForces
+
+** Domino Piling (Easy)
+** theatre square (Easy)
+
+* GeeksForGeeks
+
+** Selection Sort (Easy)
+
+* HackerRank
+
+** Grading Students (Easy)
+** Bubble Sort (Easy)
+** Insertion Sort - Part 1 (Easy)
+** Counting Sort (Easy)
+** Counting Valleys (Easy)
+
+* Leetcode
+
+** Fizz Buzz (Easy)
+** Sorting the Sentence (Easy)
+** How Many Numbers Are Smaller Than the Current Number (Easy)
+** Find Target Indices After Sorting Array (Easy)
+** Sort Colors (Medium)
+** K Closest Points to Origin (Medium)
+** Merge Intervals (Medium)
+** Largest Number (Medium)
+** Array With Elements Not Equal to Average of Neighbors (Medium)
+** Find the Kth Largest Integer in the Array (Medium)
+** Find Original Array From Doubled Array (Medium)
+** Frequency of the Most Frequent Element (Medium)
+** Number of Good Pairs (Easy)
+** Max Number of K-Sum Pairs (Medium)
+** Arithmetic Subarrays (Medium)
+** Maximum Number of Coins You Can Get (Medium)
+
+#  LocalWords:  Leetcode GeeksForGeeks
