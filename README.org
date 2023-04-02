@@ -55,5 +55,5 @@
 
 | Problem                | Solution |
 |------------------------+----------|
-| [[https://projecteuler.net/problem=1][Multiples of 3 and 5]]   | [[https://github.com/mubareksd/projecteuler/blob/main/multiples-of-3-and-5/multiples-of-3-and-5.py][Python]]   |
-| [[https://projecteuler.net/problem=2][Even Fibonacci numbers]] | [[https://github.com/mubareksd/projecteuler/blob/main/even-fibonacci-numbers/even-fibonacci-numbers.py][Python]]   |
+| [[https://projecteuler.net/problem=1][Multiples of 3 and 5]]   | [[https://github.com/mubareksd/projecteuler/blob/main/multiples-of-3-and-5/multiples-of-3-and-5.c][C]], [[https://github.com/mubareksd/projecteuler/blob/main/multiples-of-3-and-5/multiples-of-3-and-5.cpp][C++]], [[https://github.com/mubareksd/projecteuler/blob/main/multiples-of-3-and-5/multiples-of-3-and-5.py][Python]] |
+| [[https://projecteuler.net/problem=2][Even Fibonacci numbers]] | [[https://github.com/mubareksd/projecteuler/blob/main/even-fibonacci-numbers/even-fibonacci-numbers.c][C]], [[https://github.com/mubareksd/projecteuler/blob/main/even-fibonacci-numbers/even-fibonacci-numbers.cpp][C++]], [[https://github.com/mubareksd/projecteuler/blob/main/even-fibonacci-numbers/even-fibonacci-numbers.py][Python]] |
