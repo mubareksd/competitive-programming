@@ -52,3 +52,7 @@
 | [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Find Total Time Spent by Each Employee]]               | [[https://github.com/mubareksd/leetcode/blob/main/1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql][Python]]   |
 
 * Project Euler
+
+| Problem              | Solution |
+|----------------------+----------|
+| [[https://projecteuler.net/problem=1][Multiples of 3 and 5]] | [[https://github.com/mubareksd/projecteuler/blob/main/multiples-of-3-and-5/multiples-of-3-and-5.py][Python]]   |
