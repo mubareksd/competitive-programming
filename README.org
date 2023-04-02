@@ -37,7 +37,7 @@
 
 ** Counting Sort (Easy)
 *** [[https://practice.geeksforgeeks.org/problems/counting-sort/1][Problem]]
-*** [[https://github.com/mubareksd/hackerrank/tree/main/selection-sort][Solution]]
+*** [[https://github.com/mubareksd/geeksforgeeks/tree/main/selection-sort][Solution]]
 
 * HackerRank
 
