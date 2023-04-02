@@ -3,7 +3,7 @@
 #+DESCRIPTION: Solution to various coding interview questions
 #+STARTUP: inlineimages
 
-* 📗 TABLE OF CONTENTS :toc:
+* 📗 Table of Contents :toc:
 - [[#codeforces][CodeForces]]
   - [[#domino-piling-easy][Domino Piling (Easy)]]
   - [[#theatre-square-easy][theatre square (Easy)]]
