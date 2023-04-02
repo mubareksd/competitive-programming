@@ -1,7 +1,0 @@
-#+TITLE: CodeForces
-#+AUTHOR: Mubarek Seid Juhar
-#+EMAIL: mubareksd@gmail.com
-#+DATE: 2023-04-02
-#+DESCRIPTION: solutions to codeforces problems
-#+KEYWORDS: codeforces, solutions, problems
-#+LANGUAGE: en

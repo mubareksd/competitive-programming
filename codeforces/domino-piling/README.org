@@ -1,7 +1,0 @@
-#+TITLE: Domino piling
-#+AUTHOR: Mubarek Seid Juhar
-#+EMAIL: mubareksd@gmail.com
-#+DATE: 2023-04-02
-#+DESCRIPTION: CodeForces Domino piling problem solution
-#+KEYWORDS: CodeForces, Domino piling, Python
-#+LANGUAGE: en
