@@ -12,7 +12,6 @@
 - [[#geeksforgeeks][GeeksForGeeks]]
   - [[#counting-sort-easy][Counting Sort (Easy)]]
 - [[#hackerrank][HackerRank]]
-  - [[#grading-students-easy][Grading Students (Easy)]]
   - [[#bubble-sort-easy][Bubble Sort (Easy)]]
   - [[#insertion-sort---part-1-easy][Insertion Sort - Part 1 (Easy)]]
   - [[#counting-sort-1-easy][Counting Sort 1 (Easy)]]
@@ -43,9 +42,14 @@
 
 * HackerRank
 
-** Grading Students (Easy)
-*** [[https://www.hackerrank.com/challenges/grading/problem][Problem]]
-*** [[https://github.com/mubareksd/hackerrank/tree/main/grading-students/][Solution]]
+| Problem                 | Solution                                           |
+|-------------------------+----------------------------------------------------|
+| [[https://www.hackerrank.com/challenges/grading/problem][Grading Students]]        | [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.c][C]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.cpp][C++]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.dart][Dart]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.java][Java]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.js][JavaScript]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.py][Python]], [[https://github.com/mubareksd/hackerrank/blob/main/grading-students/grading-students.ts][TypeScript]] |
+| [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Bubble Sort]]             | [[https://github.com/mubareksd/hackerrank/blob/main/bubble-sort/bubble-sort.py][Python]]                                             |
+| [[https://www.hackerrank.com/challenges/insertionsort1/problem][Insertion Sort - Part 1]] | [[https://github.com/mubareksd/hackerrank/blob/main/insertion-sort/insertion-sort.py][Python]]                                             |
+| [[https://www.hackerrank.com/challenges/countingsort1/problem][Counting Sort 1]]         | [[https://github.com/mubareksd/hackerrank/blob/main/counting-sort/counting-sort.py][Python]]                                             |
+
+
 ** Bubble Sort (Easy)
 *** [[https://www.hackerrank.com/challenges/ctci-bubble-sort/problem][Problem]]
 *** [[https://github.com/mubareksd/hackerrank/tree/main/bubble-sort/][Solution]]
