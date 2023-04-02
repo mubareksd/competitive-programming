@@ -7,3 +7,6 @@
 [submodule "codeforces"]
 	path = codeforces
 	url = git@github.com:mubareksd/codeforces.git
+[submodule "hackerrank"]
+	path = hackerrank
+	url = git@github.com:mubareksd/hackerrank.git
