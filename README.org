@@ -48,7 +48,7 @@
 | [[https://leetcode.com/problems/two-sum/][Two Sum]]                                              | [[https://github.com/mubareksd/leetcode/blob/main/0001-two-sum/0001-two-sum.py][Python]]       |
 | [[https://leetcode.com/problems/pascals-triangle/][Pascal Triangle]]                                      | [[][Python]] |
 | [[https://leetcode.com/problems/pascals-triangle-ii/][Pascal Triangle II]]                                   | [[][Python]] |
-| [[https://leetcode.com/problems/fizz-buzz/][Fizz Buzz]]                                            | [[][Python]] |
+| [[https://leetcode.com/problems/fizz-buzz/][Fizz Buzz]]                                            | [[https://github.com/mubareksd/leetcode/blob/main/0412-fizz-buzz/0412-fizz-buzz.py][Python]]       |
 | [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Find Total Time Spent by Each Employee]]               | [[][Python]] |
 
 * Project Euler
