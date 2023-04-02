@@ -27,6 +27,7 @@
   - [[#concatenation-of-array-easy][Concatenation of Array (Easy)]]
   - [[#convert-the-temperature-easy][Convert the Temperature (Easy)]]
   - [[#sorting-the-sentence-easy][Sorting the Sentence (Easy)]]
+  - [[#how-many-numbers-are-smaller-than-the-current-number-easy][How Many Numbers Are Smaller Than the Current Number (Easy)]]
 
 * CodeForces
 
@@ -83,3 +84,6 @@
 ** Sorting the Sentence (Easy)
 *** [[https://leetcode.com/problems/sorting-the-sentence/][Problem]]
 *** [[https://github.com/mubareksd/leetcode/tree/main/1859-sorting-the-sentence][Solution]]
+** How Many Numbers Are Smaller Than the Current Number (Easy)
+*** [[https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/][Problem]]
+*** [[https://github.com/mubareksd/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number][Solution]]
