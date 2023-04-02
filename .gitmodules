@@ -10,3 +10,6 @@
 [submodule "hackerrank"]
 	path = hackerrank
 	url = git@github.com:mubareksd/hackerrank.git
+[submodule "geeksforgeeks"]
+	path = geeksforgeeks
+	url = git@github.com:mubareksd/geeksforgeeks.git
