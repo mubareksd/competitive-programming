@@ -18,15 +18,15 @@
 
 * Challenges
 
-** [[][CodeForces]]
+** [[https://github.com/mubareksd/codeforces][CodeForces]]
 
-** [[][GeeksForGeeks]]
+** [[https://github.com/mubareksd/geeksforgeeks][GeeksForGeeks]]
 
-** [[][HackerRank]]
+** [[https://github.com/mubareksd/hackerrank][HackerRank]]
 
-** [[][Leetcode]]
+** [[https://github.com/mubareksd/leetcode][Leetcode]]
 
-** [[][Project Euler]]
+** [[https://github.com/mubareksd/projecteuler][Project Euler]]
 
 * 👥 Authors
 
