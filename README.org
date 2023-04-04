@@ -8,26 +8,29 @@
 #+STARTUP: inlineimages
 
 * 📗 Table of Contents :toc:
-- [[#codeforces][CodeForces]]
-- [[#geeksforgeeks][GeeksForGeeks]]
-- [[#hackerrank][HackerRank]]
-- [[#leetcode][Leetcode]]
-- [[#project-euler][Project Euler]]
+- [[#challenges][Challenges]]
+  - [[#codeforces][CodeForces]]
+  - [[#geeksforgeeks][GeeksForGeeks]]
+  - [[#hackerrank][HackerRank]]
+  - [[#leetcode][Leetcode]]
+  - [[#project-euler][Project Euler]]
 - [[#-authors][👥 Authors]]
 
-* CodeForces
+* Challenges
+
+** CodeForces
 
 | Problem       | Solution |
 |---------------+----------|
 | [[https://codeforces.com/problemset/problem/50/A][Domino Piling]] | [[https://github.com/mubareksd/codeforces/blob/main/domino-piling/domino-piling.py][Python]]   |
 
-* GeeksForGeeks
+** GeeksForGeeks
 
 | Problem                   | Solution |
 |---------------------------+----------|
 | [[https://practice.geeksforgeeks.org/problems/sum-of-digits-of-a-number/0][Sum of digits of a number]] | [[https://github.com/mubareksd/geeksforgeeks/blob/main/selection-sort/selection-sort.py][Python]]   |
 
-* HackerRank
+** HackerRank
 
 | Problem                 | Solution                                           |
 |-------------------------+----------------------------------------------------|
@@ -36,7 +39,7 @@
 | [[https://www.hackerrank.com/challenges/insertionsort1/problem][Insertion Sort - Part 1]] | [[https://github.com/mubareksd/hackerrank/blob/main/insertion-sort/insertion-sort.py][Python]]                                             |
 | [[https://www.hackerrank.com/challenges/countingsort1/problem][Counting Sort 1]]         | [[https://github.com/mubareksd/hackerrank/blob/main/counting-sort/counting-sort.py][Python]]                                             |
 
-* Leetcode
+** Leetcode
 
 | Problem                                              | Solution |
 |------------------------------------------------------+----------|
@@ -54,7 +57,7 @@
 | [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]]                                    | [[https://github.com/mubareksd/leetcode/blob/main/1046-last-stone-weight/1046-last-stone-weight.py][Python]]   |
 | [[https://leetcode.com/problems/sort-colors/][Sort Colors]]                                          | [[https://github.com/mubareksd/leetcode/blob/main/0075-sort-colors/0075-sort-colors.py][Python]]   |
 
-* Project Euler
+** Project Euler
 
 | Problem                | Solution       |
 |------------------------+----------------|
@@ -64,8 +67,8 @@
 
 * 👥 Authors
 
-👤 **Mubarek Seid Juhar**
+👤 *Mubarek Seid Juhar*
 
-*** Github: [[https://github.com/mubareksd][@mubareksd]]
-*** Twitter: [[https://twitter.com/mubareksd][@mubareksd]]
-*** Linkedin: [[👤 **Mubarek Seid Juhar**][@mubareksd]]
+- Github: [[https://github.com/mubareksd][@mubareksd]]
+- Twitter: [[https://twitter.com/mubareksd][@mubareksd]]
+- Linkedin: [[👤 **Mubarek Seid Juhar**][@mubareksd]]
